@@ -33,11 +33,6 @@ This project allows users to browse mobile devices by brand, view product detail
 
 ---
 
-
-```
-
----
-
 ## 💡 How It Works
 
 1. The user selects a **mobile brand** from the dropdown list.
