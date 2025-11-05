@@ -2,7 +2,7 @@
 
 A simple, responsive web-based mini mobile store built using **HTML**, **CSS**, and **JavaScript**.
 This project allows users to browse mobile devices by brand, view product details, and add items to a dynamic shopping cart counter.
-***Website live at:***
+***Website live at:*** *https://debshika06dd.github.io/MINI-MOBILE-STORE-WITH-ADD-TO-CART/*
 
 ---
 
