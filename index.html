@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name = "viewport" content="width = device-width, initial-scale = 1.0" />
+        <title>Mini Mobile Store with Add to Cart</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    </head>
+
+    <body>
+
+        <div class="rounded-square">   
+        <h2>Mini Mobile Store</h2>
+        </div>
+        <div id="cart">  
+            <h1 id="cartText"> 
+                <span id="cartIcon"><i class="fa-solid fa-cart-shopping"></i></span>
+                <span id="cartWord">Cart:</span>
+                <span id="cartCount">0</span></h1>
+        </div>
+
+        <h3 id="select">Select Your Brand Device</h3>
+        <div id="device">
+            <select id="deviceSelect">
+            <option selected disabled >Choose Your Device</option>
+            <option value="Mi">Xiaomi</option>
+            <option value="Samsung">Samsung</option>
+            <option value="Apple">iPhone</option>
+        </select>
+        </div>
+
+        <div id="products"></div>
+
+        <script src="index.js"></script>
+    </body>
+</html>     
