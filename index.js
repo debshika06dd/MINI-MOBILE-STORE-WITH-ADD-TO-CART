@@ -6,7 +6,7 @@ let cart = 0;
 
 let devices = {
   samsung: [
-    { name: "Samsung Galaxy S23", price: 1200, img: "https://via.placeholder.com/200x150?text=Galaxy+S23" },
+    { name: "Samsung Galaxy S23", price: 1200, img: "https://dummyimage.com/200x150?text=Galaxy+S23" },
     { name: "Samsung Galaxy A54", price: 450, img: "https://dummyimage.com/200x150/333/fff&text=Galaxy+A54" }
   ],
   mi: [
@@ -43,4 +43,5 @@ sel.addEventListener("change", function (evt) {
     productsDiv.appendChild(card);
   });
 });
+
 
