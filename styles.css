@@ -78,6 +78,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 #cartCount{
@@ -217,3 +218,4 @@ h3{
     opacity: 0.9;
   }
 } */
+
